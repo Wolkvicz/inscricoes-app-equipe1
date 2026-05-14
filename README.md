@@ -14,16 +14,16 @@
 ## Introdução
 Este projeto PHP tem como objetivo criar um sistema dedicado a preenchimento de dados para Editais de Processo do sistema de ensino _Instituto Federal Catarinense_, com Anexos PDF e demais dados pessoais dos incritos. 
 Os objetivos estabelecidos:
-- [ ]Cadastro de candidato e administrador.
-- [ ]Cadastro de editais.
-- [ ]Gerenciador de editais.
-- [ ]Gerenciador de candidaturas.
-- [ ]Buscador de editais com filtro.
-- [ ]Acesso aos documentos e dados dos candidatos.
-- [ ]Pagina de inscrição com cadastro de dados pessoais e envio dos documentos.
-- [ ]Histórico de status da inscrição 
-- [ ]Visualização dos documentos enviados.
-- [ ]Cadastro e alteração dos dados pesso
+- [ ] Cadastro de candidato e administrador.
+- [ ] Cadastro de editais.
+- [ ] Gerenciador de editais.
+- [ ] Gerenciador de candidaturas.
+- [ ] Buscador de editais com filtro.
+- [ ] Acesso aos documentos e dados dos candidatos.
+- [ ] Pagina de inscrição com cadastro de dados pessoais e envio dos documentos.
+- [ ] Histórico de status da inscrição 
+- [ ] Visualização dos documentos enviados.
+- [ ] Cadastro e alteração dos dados pesso
 
 # Ferramentas
 - [ ] PHP
