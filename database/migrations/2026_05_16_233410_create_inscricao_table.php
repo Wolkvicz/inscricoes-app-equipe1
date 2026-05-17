@@ -13,7 +13,7 @@ return new class extends Migration
     {
         Schema::create('inscricao', function (Blueprint $table) {
             $table->id();
-            $table->string('caminho_fica_inscricao');
+            $table->string('caminho_ficha_inscricao');
             $table->string('caminho_identidade');
             $table->string('caminho_diploma');
             $table->string('caminho_curriculo_lattes');
