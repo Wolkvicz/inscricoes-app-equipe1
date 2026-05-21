@@ -9,8 +9,8 @@
 
     <nav class="sidebar-nav">
         <ul>
-            <li class="{{ ($activePage ?? '') === 'inicio' ? 'active' : '' }}"><a href="/"><i class="fa-solid fa-house"></i> Início</a></li>
-            <li class="{{ ($activePage ?? '') === 'Cadastrar editais' ? 'active' : '' }}"><a href="/perfil"><i class="fa-solid fa-user"></i> Meu perfil</a></li>
+            <li class="{{ ($activePage ?? '') === 'inicio' ? 'active' : '' }}"><a href="#"><i class="fa-solid fa-house"></i> Início</a></li>
+            <li class="{{ ($activePage ?? '') === 'Cadastrar editais' ? 'active' : '' }}"><a href="#"><i class="fa-solid fa-user"></i> Meu perfil</a></li>
             <li class="{{ ($activePage ?? '') === '' ? 'Candidaturas.' : '' }}"><a href="#"><i class="fa-solid fa-id-card-clip"></i> Minhas Inscrições</a></li>
         </ul>
     </nav>
